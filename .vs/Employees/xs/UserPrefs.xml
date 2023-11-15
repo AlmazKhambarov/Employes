@@ -1,0 +1,62 @@
+﻿<Properties StartupConfiguration="{3A500BD3-2286-40CA-A2A4-1900DD3296C5}|https">
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Employees PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Employees/Program.cs">
+    <Files>
+      <File FileName="Employees/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Employees/Models/Employee.cs" />
+      <File FileName="Employees/Data/ApplicationDbContext.cs" />
+      <File FileName="Employees/Program.cs" Line="25" Column="1" />
+      <File FileName="Employees/Services/Repository/EmployeesRepository.cs" />
+      <File FileName="Employees/Views/Shared/_Layout.cshtml" />
+      <File FileName="Employees/appsettings.json" Line="1" Column="1" />
+      <File FileName="Employees/Controllers/EmployesController.cs" Line="27" Column="7" />
+      <File FileName="Employees/Views/Employs/Index.cshtml" />
+      <File FileName="Employees/Views/Employes/Index.cshtml" />
+      <File FileName="Employees/Views/Employs/Create.cshtml" />
+      <File FileName="Employees/Views/Employes/Create.cshtml" />
+      <File FileName="Employees/Models/ErrorViewModel.cs" />
+      <File FileName="Employees/Services/Interface/IEmployeesRepository.cs" />
+      <File FileName="Employees/Views/Employes/Details.cshtml" />
+      <File FileName="Employees/Views/Employes/Edit.cshtml" />
+      <File FileName="Employees/Views/Employes/Delete.cshtml" />
+      <File FileName="Employees/Migrations/20231114083317_newUserName.cs" />
+      <File FileName="Employees/Migrations/20231114084159_new has data.cs" />
+      <File FileName="Employees/FluentValidation/EmploysModelValidation.cs" Line="18" Column="83" />
+      <File FileName="Employees/Views/Employs/Edit.cshtml" />
+      <File FileName="Employees/Views/Employs/Delete.cshtml" />
+      <File FileName="Employees/Controllers/EmploysController.cs" Line="25" Column="1" />
+      <File FileName="Employees/Views/Employs/Details.cshtml" Line="28" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Employees" expanded="True">
+            <Node name="Employees" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="FluentValidation" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interface" expanded="True" />
+                <Node name="Repository" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Employes" expanded="True" />
+                <Node name="Employs" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
